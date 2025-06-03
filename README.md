@@ -4,7 +4,6 @@ Welcome to the **TEA models repository!** This project contains tools for perfor
 
 
 ## Overview
-
 This repository includes:
 
 - **Dynamic TEA model implementation:**  
