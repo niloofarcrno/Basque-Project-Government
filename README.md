@@ -39,7 +39,7 @@ This repository includes:
 
 ## Getting Started
 
-1. Download the provided Excel file `TEA Tool_Basque.xlsx` for the main model interface.  
+1. Download the provided Excel file `TEA Spreadsheet-based Tool.xlsx` for the main model interface.  
 2. Review the input assumptions and update them as needed to match your project scenario.  
 3. Run the Monte Carlo simulation module to generate probabilistic profitability results.  
 4. Use the graphical outputs to interpret the economic viability and risk profile.  
