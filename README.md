@@ -43,7 +43,7 @@ This repository includes:
 2. Review the input assumptions and update them as needed to match your project scenario.  
 3. Run the Monte Carlo simulation module to generate probabilistic profitability results.  
 4. Use the graphical outputs to interpret the economic viability and risk profile.  
-5. Explore the additional files for visualization (`TEA_ExcelGraphs.opju`) and process flow (`flowchart.drawio.png`).
+5. Explore the additional files for visualization (`TEA_ExcelGraphs.opju`) and process flow (`flowchart.drawio.png`) to be used for your choice of case study.
 
 ---
 
