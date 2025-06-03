@@ -2,7 +2,6 @@
 
 Welcome to the **TEA models repository!** This project contains tools for performing **dynamic Techno-Economic Analysis (TEA)** with integrated **uncertainty analysis using Monte Carlo simulation**. These models enable comprehensive economic evaluation of projects by calculating key financial metrics and estimating worst-case profitability under uncertain parameters.
 
----
 
 ## Overview
 
